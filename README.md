@@ -1,1 +1,1 @@
-# example
+# This folder contain java maven files
